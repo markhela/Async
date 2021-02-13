@@ -30,7 +30,7 @@ let package = Package(
     name: "Async",
     platforms: [
         .macOS(.v10_10),
-        .iOS(.v14),
+        .iOS(.v13),
         .watchOS(.v3),
         .tvOS(.v9),
     ],
